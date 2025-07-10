@@ -1,5 +1,7 @@
 # Event Scheduler Structure
 
+Main request at: https://learn.wbscodingschool.com/courses/full-stack-web-app/lessons/module-project-event-scheduler/topic/%f0%9f%9b%a0%ef%b8%8f-project-guidelines-and-requirements-6/
+
 ```bash
 Component01.jsx
 ├──
